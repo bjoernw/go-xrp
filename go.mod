@@ -1,4 +1,4 @@
-module github.com/bjoernw/go-xrp
+module go-xrp
 
 go 1.12
 
